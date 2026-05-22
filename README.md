@@ -61,8 +61,10 @@ I'm a full-stack-leaning developer with **2.5+ years of experience** building sc
 
 ## 📊 GitHub Stats
 
-![Sajid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kodewizdom&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kodewizdom&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+![Sajid's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kodewizdom&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kodewizdom&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kodewizdom&theme=tokyonight)
 
 ---
 
