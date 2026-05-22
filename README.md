@@ -4,7 +4,7 @@
 
 I'm a full-stack-leaning developer with **2.5+ years of experience** building scalable web applications, RESTful APIs, and data automation workflows. I love writing clean, maintainable code and turning ideas into real products.
 
-- 🔭 Currently open to **Frontend / Full-Stack Developer** roles across India
+- 🔭 Currently open to **Frontend / Full-Stack Developer** roles
 - 💼 Previously at **Vooraf Technology** — automated workflows with Python (75% effort reduction) and built React.js internal tools
 - 🌐 Built a live production website for a **UAE-based financial consultancy** → [fundhiveconsultancy.com](https://www.fundhiveconsultancy.com/)
 - ✍️ I write tech articles on [Hashnode](https://kodewisdom.hashnode.dev/) about JavaScript, CSS, and web fundamentals
