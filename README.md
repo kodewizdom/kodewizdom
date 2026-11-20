@@ -1,108 +1,59 @@
 
-# Hi, I'm Sajid Khan
+<div align="center">
 
-### Software Developer | Generative AI Analyst | LLM Applications & Automation
+# Sajid Khan
 
-I'm a software developer with **3+ years of experience** across web development, Python automation, and Generative AI projects. I enjoy building practical applications, integrating LLMs into workflows, and solving real-world problems through technology.
+### Software Developer | Generative AI | Full-Stack Development
 
-My experience combines full-stack development with hands-on work in **LLM integration, AI workflow automation, persona-based LLM evaluation, and agentic AI applications**.
+Building web applications, intelligent AI-powered solutions, and automation workflows.
 
-- Currently working as a **Freelance Generative AI Analyst**, collaborating with a small team on client-based AI projects.
-- Working on LLM evaluation, contextual understanding, information retrieval, and AI-powered workflows.
-- Building an **Agentic AI Travel Planner** using Python, FastAPI, React.js, and Groq.
-- Previously worked at **Vooraf Technology** and **Ansari Corporate**, focusing on software development, web applications, SQL reporting, and Python automation.
-- Automated repetitive data-processing workflows, reducing manual processing effort by approximately **75%**.
-- Built web applications and a production website for a UAE-based financial consultancy.
-- Contact: **mdsajidkhan7759@gmail.com**
+[![GitHub](https://img.shields.io/badge/GitHub-kodewizdom-181717?style=flat&logo=github)](https://github.com/kodewizdom)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/isajidkhan)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mdsajidkhan7759@gmail.com)
+
+</div>
 
 ---
 
-## Professional Experience
+## About Me
 
-### Freelance Generative AI Analyst | Apr 2026 – Present
+I'm a software developer with **3+ years of experience** building web applications, backend services, automation workflows, and AI-powered solutions.
 
-Collaborating with a six-member freelance team on client-based Generative AI projects.
+My current focus is on **Generative AI and LLM applications** - from integrating language models and building tool-calling agents to evaluating AI responses and automating real-world workflows.
 
-- Working on LLM integration, AI workflow automation, and model evaluation.
-- Evaluating LLM responses for accuracy, relevance, contextual understanding, and consistency.
-- Working on persona-based LLM testing across contextual data sources such as emails, contacts, calendars, notes, and tasks.
-- Contributing to a financial transaction processing workflow using Python, document extraction, and GPT-4o Mini for transaction classification.
-- Exploring practical applications of LLMs and AI-powered automation.
+I enjoy working across the stack, experimenting with new technologies, and turning ideas into functional products.
 
-### Junior Software Developer | Vooraf Technology Pvt. Ltd. | Oct 2024 – Feb 2026
-
-- Worked on website management and e-commerce operations using Shopify.
-- Managed website content and layouts within existing website structures.
-- Developed Python automation scripts for repetitive data collection and record-updating workflows.
-- Automated manual processes, reducing processing effort by approximately 75%.
-- Wrote SQL queries for data retrieval, filtering, and reporting.
-- Worked on browser automation and data-processing tasks.
-
-### Trainee Software Engineer | Ansari Corporate Pvt. Ltd. | Aug 2023 – Aug 2024
-
-- Worked on frontend development using React.js, JavaScript, HTML, and CSS.
-- Contributed to website development, UI improvements, and application maintenance.
-- Focused on responsive interfaces and user experience.
+- **Currently exploring:** Agentic AI, LLM integration, AI automation, and evaluation.
+- **Development focus:** React.js, Python, FastAPI, Node.js, and REST APIs.
+- **Currently working on:** Client-based Generative AI projects as part of a freelance team.
+- **Education:** B.Tech in Computer Science Engineering (2023).
 
 ---
 
-## Generative AI & LLM Projects
+## Generative AI Work
 
-### 1. Agentic AI Travel Planner
+My hands-on work includes building AI-powered workflows and evaluating how LLMs perform in real-world scenarios.
 
-An AI-powered travel planning application designed for domestic travel within India. It uses an LLM-based agent with tool calling to help users plan trips according to their budget and preferences.
-
-**Key Features**
-- LLM-powered conversational travel planning.
-- Function/tool calling to retrieve relevant travel information.
-- Flight, hotel, restaurant, and tourist attraction search tools.
-- Interactive follow-up chat for refining travel plans.
-- Supports 37+ Indian destinations.
-- React-based responsive frontend and FastAPI backend.
-
-**Tech Stack:** Python, FastAPI, React.js, Groq, GPT-OSS 120B, OpenStreetMap Photon, Wikipedia REST API.
-
-- [Live Application](https://ai-travel-planner-1olr.onrender.com/)
-- [GitHub Repository](https://github.com/kodewizdom/ai-travel-planner)
-
-### 2. Financial Transaction Processing Workflow
-
-A client-based AI workflow focused on reducing manual effort in processing bank statements and analysing financial transactions.
-
-**Key Contributions**
-- Processed extracted bank statement information using Python.
-- Worked with AWS document extraction for PDF data extraction.
-- Used GPT-4o Mini to classify transactions as debit or credit.
-- Organised transaction information into structured Excel outputs.
-- Applied keyword matching to identify MCA providers.
-- Analysed transaction patterns across daily, weekly, and monthly periods to identify potentially missing transactions.
-
-**Tech Stack:** Python, AWS document extraction, GPT-4o Mini, Excel.
-
-### 3. Persona-Based LLM Evaluation
-
-A Generative AI testing project focused on evaluating how an LLM-based assistant understands user personas and uses contextual information to answer real-world questions.
-
-**Key Contributions**
-- Evaluated LLM responses using different user personas.
-- Tested contextual understanding across emails, contacts, calendars, notes, and tasks.
-- Created real-world scenarios to evaluate information retrieval.
-- Checked response accuracy, relevance, consistency, and instruction following.
-- Identified missing context, incorrect information retrieval, and unsupported assumptions.
-
-**Focus Areas:** LLM Evaluation, Contextual Understanding, Prompt Evaluation, Information Retrieval, Hallucination Detection.
+| Project | What I Worked On | Technologies |
+|---|---|---|
+| **Financial Transaction Processing** | Built a workflow for bank statement processing, debit/credit classification, and transaction pattern analysis. | Python, AWS, GPT-4o Mini |
+| **Persona-Based LLM Evaluation** | Tested contextual understanding, information retrieval, response accuracy, and consistency across different user personas. | LLM Evaluation, Prompt Testing |
+| **Agentic AI Travel Planner** | Developed an AI travel assistant that uses tool calling to search flights, hotels, restaurants, and attractions. | Python, FastAPI, React, Groq |
 
 ---
 
 ## Software Development Projects
 
-| Project | Description | Technologies | Links |
+A selection of applications and projects I've built:
+
+| Project | Overview | Tech Stack | Project |
 |---|---|---|---|
-| **City Food Express** | Full-stack restaurant ordering platform with customer storefront, admin dashboard, authentication, cart, and online payments. | React, Redux, Node.js, Express, MongoDB, Stripe | [Live App](https://city-food-express.vercel.app/) · [GitHub](https://github.com/kodewizdom/fooddeliveryapp) |
+| **Agentic AI Travel Planner** | AI-powered travel assistant with conversational planning and multiple search tools for destinations across India. | React, Python, FastAPI, Groq | [Live](https://ai-travel-planner-1olr.onrender.com/) · [GitHub](https://github.com/kodewizdom/ai-travel-planner) |
+| **City Food Express** | Full-stack food ordering application with authentication, shopping cart, payments, and admin dashboard. | React, Redux, Node.js, MongoDB, Stripe | [Live](https://city-food-express.vercel.app/) · [GitHub](https://github.com/kodewizdom/fooddeliveryapp) |
 | **FundHive Consultancy** | Production website developed for a UAE-based financial consultancy. | React.js, Tailwind CSS | [Live Website](https://fundhiveconsultancy.com/) |
-| **Real-Time Chat App** | Group chat application with room-based messaging using WebSockets. | Node.js, Socket.io, MongoDB | [GitHub](https://github.com/kodewizdom/Chat-app-nodeJS) |
-| **Obys Agency Clone** | Creative agency website recreation featuring animations and interactive UI. | HTML, CSS, JavaScript, GSAP | [GitHub](https://github.com/kodewizdom/obys_agency) · [Live](https://kodewizdom-obys-agency.netlify.app/) |
-| **Refokus Clone** | React-based website recreation with animated interactions. | React.js, GSAP | [GitHub](https://github.com/kodewizdom/Refokus) · [Live](https://kodewizdom-refokus.netlify.app/) |
+| **Real-Time Chat App** | Room-based group chat application with real-time messaging. | Node.js, Socket.io, MongoDB | [GitHub](https://github.com/kodewizdom/Chat-app-nodeJS) |
+| **Obys Agency Clone** | Interactive creative agency website with modern animations. | HTML, CSS, JavaScript, GSAP | [Live](https://kodewizdom-obys-agency.netlify.app/) · [GitHub](https://github.com/kodewizdom/obys_agency) |
+| **Refokus Clone** | Animated React website recreation with interactive UI elements. | React.js, GSAP | [Live](https://kodewizdom-refokus.netlify.app/) · [GitHub](https://github.com/kodewizdom/Refokus) |
 
 ---
 
